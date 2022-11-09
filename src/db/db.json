@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1668012367769,
+      "email": "asd@email.com",
+      "hashedPassword": "$2a$10$UW5chZf0YCg8p5IuyZTplOrmIJFzxheMXtnQjVF8K.UrRLIOiT2Fe"
+    },
+    {
+      "id": 1668015823655,
+      "email": "asdfg@email.com",
+      "hashedPassword": "$2a$10$Wkqmjvl0E96.uBj0S5CAg.bcPf46GsoLMPxG4iPcia0LiPvoZqQDe"
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "bitcoin"
+    }
+  ]
+}
